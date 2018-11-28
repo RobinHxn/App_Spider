@@ -22,13 +22,13 @@ import pandas as pd
 res_city_cate_lsit = []
 res_city_cate_dirt = {}
 total_res_dirt = {
-    "CityName":[],
-    "Category":[],
-    "OrgName":[],
-    "ContactTel":[],
-    "LegalTel":[],
-    "ContactAddr":[],
-    "Tel":[]
+    "CityName": [],
+    "Category": [],
+    "OrgName": [],
+    "ContactTel": [],
+    "LegalTel": [],
+    "ContactAddr": [],
+    "Tel": []
     }
 city_cate_par = {
     "lat": 30.292843,
